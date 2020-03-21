@@ -2,6 +2,8 @@
  * teleop_pr2
  * Copyright (c) 2009, Willow Garage, Inc.
  * All rights reserved.
+ * 
+ * This is BruttherJOE's fork.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
